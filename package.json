@@ -1,0 +1,16 @@
+{
+  "name": "site-filmes",
+  "version": "1.0.0",
+  "description": "Site criado para fins de estudo sobre API externa",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
